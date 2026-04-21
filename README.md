@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Lê Minh Đức 👋
 
-<!--
-**duc1357/duc1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Một sinh viên CNTT đam mê phát triển Web/Mobile, luôn tìm tòi các công nghệ mới và tối ưu hóa quy trình làm việc.
 
-Here are some ideas to get you started:
+## 🚀 Về bản thân
+- 🎓 Sinh viên năm 3 chuyên ngành Công nghệ Thông tin tại UTH.
+- 💻 Đang tập trung phát triển kỹ năng với **Python, PHP, và JavaScript**.
+- 🛠️ Thường xuyên ứng dụng AI trong quy trình phát triển (Vibe Coding) với các công cụ như **Cline, Continue, Antigravity** để tăng hiệu suất.
+- 🌱 Hiện tại đang tập trung hoàn thiện một dự án chuyên sâu về **PHP Core**.
+- 📫 Cách liên hệ với mình: [Email của bạn] hoặc kết nối qua [LinkedIn](Link của bạn).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Ngôn ngữ:** JavaScript, Python, PHP
+* **Công cụ & Môi trường:** Git, AI Coding Assistants, ...
+
+## 📊 GitHub Stats
+![Đức's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radium)
