@@ -1,7 +1,7 @@
 # Chào bạn, mình là Lê Minh Đức 👋 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=duc1357&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 > **Lập trình viên Full-stack (Web/Mobile) | Sinh viên năm 3 chuyên ngành CNTT**
