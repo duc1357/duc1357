@@ -4,9 +4,9 @@ Một lập trình viên Web/Mobile tương lai, yêu thích việc xây dựng 
 
 ## 🚀 Về bản thân
 - 🎓 Sinh viên năm 3 chuyên ngành Công nghệ Thông tin tại UTH.
-- 💻 Tech Stack hiện tại: **PHP, JavaScript, Python**.
+- 💻 Tech Stack hiện tại: **PHP, JavaScript, Python, MySQL, React, HTML, CSS**.
 - 🌱 Trọng tâm nghiên cứu: Đang dồn 100% công lực để hoàn thiện một dự án chuyên sâu về **PHP Core**, tự tay xây dựng luồng xử lý database và logic nền tảng từ con số không.
-- ⚡ Phong cách làm việc: Áp dụng triệt để **Vibe Coding**. Mình tích hợp các trợ lý AI như **Cline, Continue**, và **Antigravity** vào quy trình phát triển để tăng tốc độ gỡ lỗi và cấu trúc mã nguồn.
+- ⚡ Phong cách làm việc: Áp dụng triệt để **Vibe Coding**. Mình tích hợp các trợ lý AI **Antigravity** vào quy trình phát triển để tăng tốc độ gỡ lỗi và cấu trúc mã nguồn.
 - 📫 Kết nối với mình: [leminhducphale@gmail.com]
 
 ## 🛠️ Ngôn ngữ & Công cụ
