@@ -52,10 +52,10 @@
 ---
 
 ### 📊 Thống kê GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=duc1357&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc1357&layout=compact&theme=radium" alt="Top Languages" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duc1357&show_icons=true&theme=radium&hide_border=true&locale=vi)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duc1357&layout=compact&theme=radium&hide_border=true)
 
 ---
 
