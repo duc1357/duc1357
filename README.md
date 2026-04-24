@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=duc1357&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-> **Lập trình viên Full-stack (Web/Mobile) | Sinh viên năm 3 chuyên ngành CNTT**
+> **Lập trình viên Full-stack (Web/Mobile) | Sinh viên năm 3 chuyên ngành CNTT** <br>
 > Một nhà phát triển theo đuổi sự cân bằng giữa việc hiểu sâu bản chất hệ thống (Core Logic) và ứng dụng các công nghệ hiện đại nhất để tối ưu hóa hiệu suất.
 
 ---
@@ -53,14 +53,14 @@
 
 ### 📊 Thống kê GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duc1357&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duc1357&layout=compact&theme=radium" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Kết nối với mình
-- 📧 Email: [leminhducphale@gmail.com]
+- 📧 Email: [leminhducphale@gmail.com](mailto:leminhducphale@gmail.com)
 - 🏠 Địa chỉ: TP. Hồ Chí Minh, Việt Nam
 
 ---
